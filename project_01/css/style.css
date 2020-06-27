@@ -1,0 +1,57 @@
+div{
+
+}
+body{
+
+background: lightcyan;
+}
+img{
+
+max-width: 60%;
+}
+span{
+
+text-shadow: 6px 8px  8px darkgray;
+}
+h1{
+
+font-size: 53px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+margin-top: 0px;
+
+color: #4a734a;
+}
+h2{
+
+text-align: -webkit-left;
+}
+.upper{
+
+width: 845px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+padding: 15px;
+}
+.lower{
+	
+width: 1000px;
+	
+margin-left: auto;
+	
+margin-right: auto;
+	
+color: darkolivegreen;
+}
+p{
+	    width: fit-content;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: inherit;
+}
